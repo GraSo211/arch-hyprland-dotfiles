@@ -1,0 +1,532 @@
+12/20/2025, 8:19:35 PM GMT-3 0: 
+
+----------------------------------------------
+12/20/2025, 8:19:35 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/20/2025, 8:19:35 PM GMT-3 2: ✅ webContents.created web1 ""
+12/20/2025, 8:19:35 PM GMT-3 3: ✅ window.created win1 "discord"
+12/20/2025, 8:19:35 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/20/2025, 8:19:43 PM GMT-3 5: ✅ webContents.created web2 ""
+12/20/2025, 8:19:43 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/20/2025, 8:19:44 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/20/2025, 8:19:45 PM GMT-3 8: window.close win1
+12/20/2025, 8:19:45 PM GMT-3 9: webContents.destroyed web1
+12/20/2025, 8:19:45 PM GMT-3 10: window.closed win1
+12/20/2025, 8:20:20 PM GMT-3 11: ✅ webContents.did-finish-load web2
+12/20/2025, 8:23:00 PM GMT-3 12: before-quit
+12/20/2025, 8:23:00 PM GMT-3 13: window.close win2
+12/20/2025, 8:23:02 PM GMT-3 14: window.closed win2
+12/20/2025, 8:42:58 PM GMT-3 0: 
+
+----------------------------------------------
+12/20/2025, 8:42:58 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/20/2025, 8:42:58 PM GMT-3 2: ✅ webContents.created web1 ""
+12/20/2025, 8:42:58 PM GMT-3 3: ✅ window.created win1 "discord"
+12/20/2025, 8:42:58 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/20/2025, 8:42:58 PM GMT-3 5: ✅ webContents.created web2 ""
+12/20/2025, 8:42:58 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/20/2025, 8:42:59 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/20/2025, 8:43:00 PM GMT-3 8: window.close win1
+12/20/2025, 8:43:00 PM GMT-3 9: webContents.destroyed web1
+12/20/2025, 8:43:00 PM GMT-3 10: window.closed win1
+12/20/2025, 8:43:01 PM GMT-3 11: ✅ webContents.did-finish-load web2
+12/20/2025, 9:11:11 PM GMT-3 0: 
+
+----------------------------------------------
+12/20/2025, 9:11:11 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/20/2025, 9:11:11 PM GMT-3 2: ✅ webContents.created web1 ""
+12/20/2025, 9:11:11 PM GMT-3 3: ✅ window.created win1 "discord"
+12/20/2025, 9:11:11 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/20/2025, 9:11:12 PM GMT-3 5: ✅ webContents.created web2 ""
+12/20/2025, 9:11:12 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/20/2025, 9:11:13 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/20/2025, 9:11:14 PM GMT-3 8: window.close win1
+12/20/2025, 9:11:14 PM GMT-3 9: webContents.destroyed web1
+12/20/2025, 9:11:14 PM GMT-3 10: window.closed win1
+12/20/2025, 9:24:48 PM GMT-3 11: before-quit
+12/20/2025, 9:24:48 PM GMT-3 12: window.close win2
+12/20/2025, 9:24:48 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/20/2025, 9:24:48 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/20/2025, 9:24:48 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/20/2025, 10:28:19 PM GMT-3 0: 
+
+----------------------------------------------
+12/20/2025, 10:28:19 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/20/2025, 10:28:19 PM GMT-3 2: ✅ webContents.created web1 ""
+12/20/2025, 10:28:19 PM GMT-3 3: ✅ window.created win1 "discord"
+12/20/2025, 10:28:19 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/20/2025, 10:28:20 PM GMT-3 5: ✅ webContents.created web2 ""
+12/20/2025, 10:28:20 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/20/2025, 10:28:21 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/20/2025, 10:28:22 PM GMT-3 8: window.close win1
+12/20/2025, 10:28:22 PM GMT-3 9: webContents.destroyed web1
+12/20/2025, 10:28:22 PM GMT-3 10: window.closed win1
+12/21/2025, 4:04:10 AM GMT-3 11: before-quit
+12/21/2025, 4:04:10 AM GMT-3 12: window.close win2
+12/21/2025, 4:04:10 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/21/2025, 4:04:10 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/21/2025, 4:04:11 AM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/21/2025, 3:46:39 PM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 3:46:39 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/21/2025, 3:46:39 PM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 3:46:39 PM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 3:46:39 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 3:46:39 PM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 3:46:39 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 3:46:40 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 3:46:41 PM GMT-3 8: window.close win1
+12/21/2025, 3:46:41 PM GMT-3 9: webContents.destroyed web1
+12/21/2025, 3:46:41 PM GMT-3 10: window.closed win1
+12/21/2025, 6:23:07 PM GMT-3 11: before-quit
+12/21/2025, 6:23:07 PM GMT-3 12: window.close win2
+12/21/2025, 6:23:07 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/21/2025, 6:23:07 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/21/2025, 6:23:07 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/21/2025, 6:30:22 PM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 6:30:23 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/21/2025, 6:30:23 PM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 6:30:23 PM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 6:30:23 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 6:30:23 PM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 6:30:23 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 6:30:24 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 6:30:25 PM GMT-3 8: window.close win1
+12/21/2025, 6:30:25 PM GMT-3 9: webContents.destroyed web1
+12/21/2025, 6:30:25 PM GMT-3 10: window.closed win1
+12/21/2025, 11:02:44 PM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 11:02:44 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/21/2025, 11:02:44 PM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 11:02:44 PM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 11:02:44 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 11:02:45 PM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 11:02:45 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 11:02:46 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 11:02:47 PM GMT-3 8: window.close win1
+12/21/2025, 11:02:47 PM GMT-3 9: webContents.destroyed web1
+12/21/2025, 11:02:47 PM GMT-3 10: window.closed win1
+12/22/2025, 2:22:58 AM GMT-3 11: before-quit
+12/22/2025, 2:22:58 AM GMT-3 12: window.close win2
+12/22/2025, 2:22:58 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 2:22:58 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 2:22:58 AM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 10:44:52 AM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 10:44:52 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/22/2025, 10:44:52 AM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 10:44:52 AM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 10:44:52 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 10:44:53 AM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 10:44:53 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 10:44:54 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 10:44:55 AM GMT-3 8: window.close win1
+12/22/2025, 10:44:55 AM GMT-3 9: webContents.destroyed web1
+12/22/2025, 10:44:55 AM GMT-3 10: window.closed win1
+12/22/2025, 10:49:55 AM GMT-3 11: before-quit
+12/22/2025, 10:49:55 AM GMT-3 12: window.close win2
+12/22/2025, 10:49:55 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 10:49:55 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 10:50:55 AM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 10:50:55 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/22/2025, 10:50:55 AM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 10:50:55 AM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 10:50:55 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 10:50:55 AM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 10:50:55 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 10:50:56 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 10:50:57 AM GMT-3 8: window.close win1
+12/22/2025, 10:50:57 AM GMT-3 9: webContents.destroyed web1
+12/22/2025, 10:50:57 AM GMT-3 10: window.closed win1
+12/22/2025, 2:19:16 PM GMT-3 11: before-quit
+12/22/2025, 2:19:16 PM GMT-3 12: window.close win2
+12/22/2025, 2:19:16 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 2:19:16 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 2:19:16 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 8:37:44 PM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 8:37:44 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/22/2025, 8:37:44 PM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 8:37:44 PM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 8:37:45 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 8:37:45 PM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 8:37:45 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 8:37:46 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 8:37:47 PM GMT-3 8: window.close win1
+12/22/2025, 8:37:47 PM GMT-3 9: webContents.destroyed web1
+12/22/2025, 8:37:47 PM GMT-3 10: window.closed win1
+12/22/2025, 11:51:29 PM GMT-3 11: before-quit
+12/22/2025, 11:51:29 PM GMT-3 12: window.close win2
+12/22/2025, 11:51:29 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 11:51:29 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 11:51:29 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 11:52:18 PM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 11:52:18 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/22/2025, 11:52:18 PM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 11:52:18 PM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 11:52:18 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 11:52:19 PM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 11:52:19 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 11:52:20 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 11:52:21 PM GMT-3 8: window.close win1
+12/22/2025, 11:52:21 PM GMT-3 9: webContents.destroyed web1
+12/22/2025, 11:52:21 PM GMT-3 10: window.closed win1
+12/23/2025, 12:59:06 AM GMT-3 11: before-quit
+12/23/2025, 12:59:06 AM GMT-3 12: window.close win2
+12/23/2025, 12:59:06 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 12:59:06 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 12:59:06 AM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 12:59:43 AM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 12:59:43 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 12:59:43 AM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 12:59:43 AM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 12:59:43 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 12:59:44 AM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 12:59:44 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 12:59:45 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 12:59:46 AM GMT-3 8: window.close win1
+12/23/2025, 12:59:46 AM GMT-3 9: webContents.destroyed web1
+12/23/2025, 12:59:46 AM GMT-3 10: window.closed win1
+12/23/2025, 1:05:38 AM GMT-3 11: before-quit
+12/23/2025, 1:05:38 AM GMT-3 12: window.close win2
+12/23/2025, 1:05:38 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 1:05:38 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 1:05:38 AM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 9:58:48 AM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 9:58:48 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 9:58:48 AM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 9:58:48 AM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 9:58:48 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 9:58:49 AM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 9:58:49 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 9:58:50 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 9:58:51 AM GMT-3 8: window.close win1
+12/23/2025, 9:58:51 AM GMT-3 9: webContents.destroyed web1
+12/23/2025, 9:58:51 AM GMT-3 10: window.closed win1
+12/23/2025, 12:32:43 PM GMT-3 11: before-quit
+12/23/2025, 12:32:43 PM GMT-3 12: window.close win2
+12/23/2025, 12:32:43 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 12:32:43 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 12:33:38 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 12:33:38 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 12:33:38 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 12:33:38 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 12:33:39 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 12:33:39 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 12:33:39 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 12:33:40 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 12:33:41 PM GMT-3 8: window.close win1
+12/23/2025, 12:33:41 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 12:33:41 PM GMT-3 10: window.closed win1
+12/23/2025, 12:53:35 PM GMT-3 11: before-quit
+12/23/2025, 12:53:35 PM GMT-3 12: window.close win2
+12/23/2025, 12:53:35 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 12:53:35 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 12:53:35 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 1:41:36 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 1:41:36 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 1:41:36 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 1:41:36 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 1:41:36 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 1:41:37 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 1:41:37 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 1:41:38 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 1:41:39 PM GMT-3 8: window.close win1
+12/23/2025, 1:41:39 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 1:41:39 PM GMT-3 10: window.closed win1
+12/23/2025, 8:21:02 PM GMT-3 11: before-quit
+12/23/2025, 8:21:02 PM GMT-3 12: window.close win2
+12/23/2025, 8:21:02 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 8:21:42 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 8:21:42 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 8:21:42 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 8:21:42 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 8:21:42 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 8:21:43 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 8:21:43 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 8:21:44 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 8:21:45 PM GMT-3 8: window.close win1
+12/23/2025, 8:21:45 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 8:21:45 PM GMT-3 10: window.closed win1
+12/23/2025, 8:32:25 PM GMT-3 11: before-quit
+12/23/2025, 8:32:25 PM GMT-3 12: window.close win2
+12/23/2025, 8:32:25 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 8:32:25 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 8:32:25 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 8:33:08 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 8:33:08 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 8:33:08 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 8:33:08 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 8:33:08 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 8:33:08 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 8:33:08 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 8:33:09 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 8:33:10 PM GMT-3 8: window.close win1
+12/23/2025, 8:33:10 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 8:33:10 PM GMT-3 10: window.closed win1
+12/23/2025, 8:55:16 PM GMT-3 11: before-quit
+12/23/2025, 8:55:16 PM GMT-3 12: window.close win2
+12/23/2025, 8:55:16 PM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/23/2025, 8:55:16 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/23/2025, 8:55:16 PM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 8:56:08 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 8:56:08 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/23/2025, 8:56:08 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 8:56:08 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 8:56:09 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 8:56:09 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 8:56:09 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 8:56:11 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 8:56:11 PM GMT-3 8: window.close win1
+12/23/2025, 8:56:11 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 8:56:11 PM GMT-3 10: window.closed win1
+12/24/2025, 12:30:13 AM GMT-3 11: window.close win2
+12/24/2025, 12:30:23 AM GMT-3 0: 
+
+----------------------------------------------
+12/24/2025, 12:30:23 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/24/2025, 12:59:12 AM GMT-3 12: before-quit
+12/24/2025, 12:59:12 AM GMT-3 13: window.close win2
+12/24/2025, 12:59:12 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/24/2025, 12:59:12 AM GMT-3 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/24/2025, 12:59:12 AM GMT-3 16: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/24/2025, 11:00:05 AM GMT-3 0: 
+
+----------------------------------------------
+12/24/2025, 11:00:05 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/24/2025, 11:00:05 AM GMT-3 2: ✅ webContents.created web1 ""
+12/24/2025, 11:00:05 AM GMT-3 3: ✅ window.created win1 "discord"
+12/24/2025, 11:00:05 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/24/2025, 11:00:05 AM GMT-3 5: ✅ webContents.created web2 ""
+12/24/2025, 11:00:05 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/24/2025, 11:00:07 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/24/2025, 11:00:08 AM GMT-3 8: window.close win1
+12/24/2025, 11:00:08 AM GMT-3 9: webContents.destroyed web1
+12/24/2025, 11:00:08 AM GMT-3 10: window.closed win1
+12/24/2025, 11:17:01 AM GMT-3 11: before-quit
+12/24/2025, 11:17:01 AM GMT-3 12: window.close win2
+12/24/2025, 11:17:01 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/24/2025, 11:17:01 AM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/24/2025, 11:17:01 AM GMT-3 15: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/24/2025, 11:31:06 AM GMT-3 0: 
+
+----------------------------------------------
+12/24/2025, 11:31:06 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/graso/.config/discord/0.0.119/modules
+12/24/2025, 11:31:06 AM GMT-3 2: ✅ webContents.created web1 ""
+12/24/2025, 11:31:06 AM GMT-3 3: ✅ window.created win1 "discord"
+12/24/2025, 11:31:06 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/24/2025, 11:31:06 AM GMT-3 5: ✅ webContents.created web2 ""
+12/24/2025, 11:31:06 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/24/2025, 11:31:08 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/24/2025, 11:31:09 AM GMT-3 8: window.close win1
+12/24/2025, 11:31:09 AM GMT-3 9: webContents.destroyed web1
+12/24/2025, 11:31:09 AM GMT-3 10: window.closed win1
