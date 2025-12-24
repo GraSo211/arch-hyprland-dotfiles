@@ -132,3 +132,9 @@
 2025/12/24-16:27:00.291 3b7 Level-0 table #355: started
 2025/12/24-16:27:00.292 3b7 Level-0 table #355: 54681 bytes OK
 2025/12/24-16:27:00.293 3b7 Delete type=0 #351
+2025/12/24-16:51:17.396 3b7 Level-0 table #357: started
+2025/12/24-16:51:17.397 3b7 Level-0 table #357: 85289 bytes OK
+2025/12/24-16:51:17.398 3b7 Delete type=0 #354
+2025/12/24-16:51:22.727 3b7 Level-0 table #359: started
+2025/12/24-16:51:22.728 3b7 Level-0 table #359: 52120 bytes OK
+2025/12/24-16:51:22.728 3b7 Delete type=0 #356

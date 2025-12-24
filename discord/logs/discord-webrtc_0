@@ -4960,3 +4960,29 @@ WebRTC.Video.Screenshare.DroppedFrames.CongestionWindow 0
 [2025-12-24 16:23:33.127] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:137669
 [2025-12-24 16:23:33.127] [126606] (pulseaudio_controller.cpp:72): PulseAudioController OnPulseAudioEvent sink input deleted. 137669
 [2025-12-24 16:23:33.127] [126606] (pulseaudio_controller.cpp:145): PulseAudioController sink 137669 deleted
+[2025-12-24 16:47:38.961] [1958] JS console: [GatewaySocket] [WS CLOSED] (true, 4003, Not authenticated.) retrying in 1.53 seconds.
+[2025-12-24 16:47:40.489] [1958] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-12-24 16:47:40.696] [1958] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 207 ms
+[2025-12-24 16:47:40.696] [1958] JS console: [GatewaySocket] [RESUME] resuming session dc87c59025a7c4cc8d8d04c2f7352a69, seq: 1599
+[2025-12-24 16:47:40.840] [1958] JS console: [GatewaySocket] [INVALID_SESSION]
+[2025-12-24 16:47:40.994] [1958] JS console: [GatewaySocket] [WS CLOSED] because of authentication failure, marking as closed.
+[2025-12-24 16:47:40.994] [1958] JS console: [GatewaySocket] [RESET] (true, 4004, Authentication failed.)
+[2025-12-24 16:51:05.291] [1958] JS console: [GatewaySocket] [CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2025-12-24 16:51:05.309] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:05.309] [126606] (pulseaudio_controller.cpp:61): PulseAudioController OnPulseAudioEvent sink input added. 150711
+[2025-12-24 16:51:05.314] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:05.314] [126606] (pulseaudio_controller.cpp:80): PulseAudioController OnPulseAudioEvent sink input changed. 150711
+[2025-12-24 16:51:05.315] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:05.315] [126606] (pulseaudio_controller.cpp:80): PulseAudioController OnPulseAudioEvent sink input changed. 150711
+[2025-12-24 16:51:05.317] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:05.317] [126606] (pulseaudio_controller.cpp:80): PulseAudioController OnPulseAudioEvent sink input changed. 150711
+[2025-12-24 16:51:05.330] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:05.330] [126606] (pulseaudio_controller.cpp:80): PulseAudioController OnPulseAudioEvent sink input changed. 150711
+[2025-12-24 16:51:05.509] [1958] JS console: [GatewaySocket] [CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 217 ms
+[2025-12-24 16:51:07.082] [1958] JS console: [GatewaySocket] [READY] took 1790ms, as b95378598a621d0904f06df8a41e6ef9
+[2025-12-24 16:51:07.561] [1958] JS console: [GatewaySocket] [READY_SUPPLEMENTAL] took 2270ms
+[2025-12-24 16:51:15.318] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:15.318] [126606] (pulseaudio_controller.cpp:80): PulseAudioController OnPulseAudioEvent sink input changed. 150711
+[2025-12-24 16:51:20.325] [126606] (pulseaudio_controller.cpp:46): PulseAudioController OnPulseAudioEvent - event_type:150711
+[2025-12-24 16:51:20.325] [126606] (pulseaudio_controller.cpp:72): PulseAudioController OnPulseAudioEvent sink input deleted. 150711
+[2025-12-24 16:51:20.325] [126606] (pulseaudio_controller.cpp:145): PulseAudioController sink 150711 deleted
