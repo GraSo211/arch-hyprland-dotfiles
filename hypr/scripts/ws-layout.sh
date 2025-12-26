@@ -4,13 +4,13 @@ WS="$1"
 
 case "$WS" in
   2)
-    hyprctl keyword master:mfact 0.90
-    ;;
-  3)
-    hyprctl keyword master:mfact 0.7
+    # Workspace 2: layout master
+    hyprctl keyword general:layout master
+    hyprctl keyword master:mfact 0.80
     ;;
   *)
-    hyprctl keyword master:mfact 0.55
+    # Resto de workspaces: layout dwindle
+    hyprctl keyword general:layout dwindle
     ;;
 esac
 
