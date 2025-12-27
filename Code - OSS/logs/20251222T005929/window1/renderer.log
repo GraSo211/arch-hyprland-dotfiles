@@ -1,5 +1,0 @@
-2025-12-22 00:59:30.712 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-12-22 00:59:30.912 [info] Started local extension host with pid 532749.
-2025-12-22 00:59:30.940 [info] Started initializing default profile extensions in extensions installation folder. file:///home/graso/.vscode-oss/extensions
-2025-12-22 00:59:31.064 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/graso/.vscode-oss/extensions
-2025-12-22 00:59:33.961 [info] [perf] Render performance baseline is 19ms

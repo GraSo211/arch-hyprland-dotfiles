@@ -6,7 +6,8 @@ case "$WS" in
   2)
     # Workspace 2: layout master
     hyprctl keyword general:layout master
-    hyprctl keyword master:mfact 0.80
+      hyprctl keyword master:mfact 0.80
+      hyprctl dispatch focuswindow class:zen
     ;;
   *)
     # Resto de workspaces: layout dwindle

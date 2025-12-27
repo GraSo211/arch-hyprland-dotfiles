@@ -1,26 +1,9 @@
-2025/12/25-13:56:30.109 74c Reusing MANIFEST /home/graso/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/12/25-13:56:30.117 74c Recovering log #428
-2025/12/25-13:56:30.117 74c Reusing old log /home/graso/.config/discord/Local Storage/leveldb/000428.log 
-2025/12/25-13:57:30.138 74c Level-0 table #432: started
-2025/12/25-13:57:30.140 74c Level-0 table #432: 20692 bytes OK
-2025/12/25-13:57:30.142 74c Delete type=0 #428
-2025/12/25-13:57:30.142 74c Compacting 4@0 + 2@1 files
-2025/12/25-13:57:30.193 74c Generated table #433@0: 33 keys, 4215862 bytes
-2025/12/25-13:57:30.195 74c Generated table #434@0: 85 keys, 129168 bytes
-2025/12/25-13:57:30.196 74c Compacted 4@0 + 2@1 files => 4345030 bytes
-2025/12/25-13:57:30.196 74c compacted to: files[ 0 2 1 0 0 0 0 ]
-2025/12/25-13:57:30.196 74c Delete type=2 #426
-2025/12/25-13:57:30.196 74c Delete type=2 #432
-2025/12/25-13:57:30.196 74c Delete type=2 #423
-2025/12/25-13:57:30.196 74c Delete type=2 #429
-2025/12/25-13:57:30.196 74c Delete type=2 #420
-2025/12/25-13:57:30.196 74c Delete type=2 #421
-2025/12/25-14:07:21.998 74c Level-0 table #436: started
-2025/12/25-14:07:22.023 74c Level-0 table #436: 4211855 bytes OK
-2025/12/25-14:07:22.023 74c Delete type=0 #431
-2025/12/25-14:09:52.080 74c Level-0 table #438: started
-2025/12/25-14:09:52.081 74c Level-0 table #438: 52044 bytes OK
-2025/12/25-14:09:52.081 74c Delete type=0 #435
-2025/12/25-15:56:37.399 74c Level-0 table #440: started
-2025/12/25-15:56:37.401 74c Level-0 table #440: 52539 bytes OK
-2025/12/25-15:56:37.401 74c Delete type=0 #437
+2025/12/26-22:21:41.678 3fe Reusing MANIFEST /home/graso/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/12/26-22:21:41.716 3fe Recovering log #513
+2025/12/26-22:21:41.717 3fe Reusing old log /home/graso/.config/discord/Local Storage/leveldb/000513.log 
+2025/12/26-23:19:10.677 3ff Level-0 table #519: started
+2025/12/26-23:19:10.702 3ff Level-0 table #519: 4215146 bytes OK
+2025/12/26-23:19:10.703 3ff Delete type=0 #513
+2025/12/26-23:29:48.194 3ff Level-0 table #521: started
+2025/12/26-23:29:48.195 3ff Level-0 table #521: 55965 bytes OK
+2025/12/26-23:29:48.195 3ff Delete type=0 #518
