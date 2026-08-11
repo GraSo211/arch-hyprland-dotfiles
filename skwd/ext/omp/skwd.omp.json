@@ -1,0 +1,104 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 3,
+  "final_space": true,
+  "console_title_template": "{{ .Shell }} in {{ .Folder }}",
+  "palette": {
+    "primary": "#99cbff",
+    "on-primary": "#003354",
+    "primary-container": "#5d95ca",
+    "on-primary-container": "#000000",
+    "tertiary": "#f5bd61",
+    "on-tertiary": "#432c00",
+    "tertiary-container": "#b98831",
+    "on-tertiary-container": "#000000",
+    "surface": "#111417",
+    "surface-variant": "#41474f",
+    "on-surface-variant": "#c1c7d0",
+    "error": "#ffb4ab",
+    "on-error": "#690005",
+    "outline": "#8b919a"
+  },
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "time",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "p:on-primary",
+          "background": "p:primary",
+          "template": " {{ .CurrentDate | date \"15:04\" }} "
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "p:on-tertiary",
+          "background": "p:tertiary",
+          "template": "  {{ .Path }} ",
+          "properties": {
+            "style": "agnoster_short",
+            "max_depth": 3
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "p:on-primary",
+          "background": "p:primary",
+          "template": "  {{ .HEAD }}{{ if .Working.Changed }}  {{ .Working.String }}{{ end }}{{ if .Staging.Changed }}  {{ .Staging.String }}{{ end }} ",
+          "properties": {
+            "branch_icon": "",
+            "fetch_status": true,
+            "fetch_stash_count": true
+          }
+        },
+        {
+          "type": "status",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "p:on-error",
+          "background": "p:error",
+          "template": "  {{ .Code }} "
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "right",
+      "overflow": "hide",
+      "segments": [
+        {
+          "type": "executiontime",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "invert_powerline": true,
+          "foreground": "p:on-surface-variant",
+          "background": "p:surface-variant",
+          "template": "  {{ .FormattedMs }} ",
+          "properties": {
+            "threshold": 2000,
+            "style": "roundrock"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "p:primary",
+          "template": "❯ "
+        }
+      ]
+    }
+  ]
+}
